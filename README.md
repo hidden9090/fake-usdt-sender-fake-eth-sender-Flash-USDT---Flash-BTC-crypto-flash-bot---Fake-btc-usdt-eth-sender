@@ -6,7 +6,7 @@ Fake USDT/ETH Sender telegram bot is a premier solution for flashing Tether (USD
 
 Flash USDT Sender is a premier solution for Tether (USDT) & ETH transactions. 🌐
 
-  
+   
 Disclaimer ⚠️
  
 
