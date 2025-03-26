@@ -9,7 +9,7 @@ Flash USDT Sender is a premier solution for Tether (USDT) & ETH transactions. �
      
 Disclaimer ⚠️
  
-
+ 
 
 Our products are designed for legitimate use within the bounds of applicable laws and regulations. Users are responsible for ensuring compliance in their jurisdiction.
 
